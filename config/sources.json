@@ -17,17 +17,24 @@
       "urls": [
         "http://www.饭太硬.net/tv",
         "http://www.饭太硬.cc/tv",
-        "http://fty.xxooo.cf/tv",
         "http://www.饭太硬.art/tv",
         "http://fty.888484.xyz/tv",
         "http://fty.333232.xyz/tv"
+      ]
+    },
+     {
+      "id": "moyu",
+      "name": "摸鱼",
+      "urls": [
+        "http://fish.y456y.com/",
+        "http://www.y456y.com/"
       ]
     },
     {
       "id": "wangerxiao",
       "name": "王二小",
       "urls": [
-        "https://d.kstore.dev/download/9280/wex.json",
+        "http://tv.999888987.xyz/",
         "https://9280.kstore.vip/newwex.json",
         "http://new.王二小放牛娃.top"
       ]
