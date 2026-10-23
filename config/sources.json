@@ -3,14 +3,81 @@
   "update_interval_hours": 12,
   "sources": [
     {
+      "id": "feimao",
+      "name": "肥猫",
+      "urls": [
+        "http://肥猫.net/tv",
+        "http://肥猫.com/",
+        "https://6296.kstore.vip/facat.json"
+      ]
+    },
+    {
       "id": "fantaiying",
       "name": "饭太硬",
       "urls": [
         "http://www.饭太硬.net/tv",
         "http://www.饭太硬.cc/tv",
-        "http://www.饭太硬.art/tv",
-        "http://fty.888484.xyz/tv",
-        "http://fty.333232.xyz/tv"
+        "http://www.饭太硬.xyz/tv"
+      ]
+    },
+    {
+      "id": "wangerxiao",
+      "name": "王二小",
+      "urls": [
+        "https://d.kstore.dev/download/9280/wex.json",
+        "https://9280.kstore.vip/newwex.json",
+        "http://new.王二小放牛娃.top"
+      ]
+    },
+    {
+      "id": "laoliubei",
+      "name": "老刘备",
+      "urls": [
+        "https://raw.liucn.cc/box/m.json"
+      ]
+    },
+    {
+      "id": "xiaoma",
+      "name": "小马",
+      "urls": [
+        "https://szyyds.cn/tv/x.json"
+      ]
+    },
+    {
+      "id": "ouge",
+      "name": "讴歌",
+      "urls": [
+        "http://tv.nxog.top/m/",
+        "https://欧歌.v.nxog.top/m/"
+      ]
+    },
+    {
+      "id": "4k",
+      "name": "4K小盒子",
+      "urls": [
+        "http://xhztv.top/4k.json",
+        "http://xhztv.top/xhz"
+      ]
+    },
+    {
+      "id": "xiaohezi",
+      "name": "小盒子单仓",
+      "urls": [
+        "http://xhztv.top/xhz"
+      ]
+    },
+    {
+      "id": "shiguang",
+      "name": "拾光多仓",
+      "urls": [
+        "http://xmbjm.fh4u.org/dc.txt"
+      ]
+    },
+    {
+      "id": "tinghao",
+      "name": "挺好分享多仓",
+      "urls": [
+        "http://ztha.top/TVBox/GYCK.json"
       ]
     }
   ]
