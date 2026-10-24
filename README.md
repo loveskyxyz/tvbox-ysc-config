@@ -12,12 +12,13 @@
 ## 一、源可用性状态
 
 <!-- STATUS_START -->
-> 🔄 最近更新：2026-10-24 14:58:20（北京时间） · 成功 **10/10** 个源
+> 🔄 最近更新：2026-10-24 15:28:31（北京时间） · 成功 **10/11** 个源
 
 | 配置源 | 状态 | 使用地址 |
 | --- | --- | --- |
 | 肥猫 | ✅ 成功 | `http://肥猫.net/tv` |
 | 饭太硬 | ✅ 成功 | `https://aly2.tuchuangyun.top/autoupload/3wmba/other/tv/tigers/tvbox.json` |
+| 摸鱼 | ❌ 失败 | Expecting value: line 1 column 1 (char 0) |
 | 王二小 | ✅ 成功 | `https://d.kstore.dev/download/9280/wex.json` |
 | 老刘备 | ✅ 成功 | `https://raw.liucn.cc/box/m.json` |
 | 小马 | ✅ 成功 | `https://szyyds.cn/tv/x.json` |
