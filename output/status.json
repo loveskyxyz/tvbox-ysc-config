@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28 03:16:49",
+  "updated_at": "2026-10-28 16:01:14",
   "repo": "loveskyxyz/tvbox-ysc-config",
   "sources": [
     {
@@ -70,8 +70,9 @@
       "id": "shiguang",
       "name": "拾光多仓",
       "ok": true,
-      "used_url": "http://xmbjm.fh4u.org/dc.txt",
-      "error": null
+      "used_url": "(缓存)",
+      "error": "502 Server Error: Bad Gateway for url: http://xmbjm.fh4u.org/dc.txt",
+      "cached": true
     },
     {
       "id": "tinghao",
